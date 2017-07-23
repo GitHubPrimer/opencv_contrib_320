@@ -1,0 +1,4 @@
+# opencv_contrib_320
+opencv_contirb_320
+包含适合opencv320 用CMAKE编译的opencv_contirb源文件
+包含已经编译好的库opencv_contrib_320库
